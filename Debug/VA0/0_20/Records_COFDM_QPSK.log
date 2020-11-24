@@ -1,0 +1,30 @@
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+f_d * t = 0.000000
+Maximum number of bits of simulation = 10180
+Eb/No      BER              BLER
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+f_d * t = 0.000000
+Maximum number of bits of simulation = 10180
+Eb/No      BER              BLER
+0.0     2.907911e-001    9.101000e-001
+4.0     8.179808e-002    4.523200e-001
+8.0     8.974077e-003    8.909000e-002
+12.0     3.148625e-004    6.650000e-003
+16.0     5.893910e-006    3.100000e-004
+20.0     0.000000e+000    0.000000e+000

@@ -1,0 +1,63 @@
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 350.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 810.185185 (Hz)
+f_d * t = 0.083336
+Maximum number of bits of simulation = 10180000
+Eb/No      BER              BLER
+0.0     3.867060e-001    1.000000e+000
+2.0     3.798297e-001    1.000000e+000
+4.0     8.918047e-002    3.571429e-001
+6.0     3.027996e-002    2.500000e-001
+8.0     6.438938e-003    1.096774e-001
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 350.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 810.185185 (Hz)
+f_d * t = 0.083336
+Maximum number of bits of simulation = 10180000
+Eb/No      BER              BLER
+0.0     3.136051e-001    1.000000e+000
+2.0     9.903554e-002    7.272727e-001
+4.0     5.951956e-002    5.454545e-001
+6.0     3.228376e-002    2.432432e-001
+8.0     1.193984e-002    1.190476e-001
+10.0     1.461071e-003    2.823180e-002
+12.0     4.196583e-004    5.074532e-003
+14.0     6.041257e-005    2.200000e-003
+16.0     5.893910e-007    1.000000e-004
+18.0     0.000000e+000    0.000000e+000
+20.0     0.000000e+000    0.000000e+000
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 350.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 810.185185 (Hz)
+f_d * t = 0.083336
+Maximum number of bits of simulation = 10180000
+Eb/No      BER              BLER
+0.0     2.939314e-001    9.106000e-001
+2.0     1.729545e-001    7.149000e-001
+4.0     8.024892e-002    4.506000e-001
+6.0     3.227171e-002    2.403000e-001
+8.0     8.988114e-003    9.280000e-002
+10.0     2.163065e-003    2.920000e-002
+12.0     3.777996e-004    6.400000e-003
+14.0     4.675835e-005    1.300000e-003
+16.0     3.831041e-006    3.000000e-004
+18.0     0.000000e+000    0.000000e+000
+20.0     0.000000e+000    0.000000e+000

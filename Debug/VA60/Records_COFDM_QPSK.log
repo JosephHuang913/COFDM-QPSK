@@ -1,0 +1,64 @@
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 138.888889 (Hz)
+f_d * t = 0.014286
+Maximum number of bits of simulation = 10180000
+Eb/No      BER              BLER
+5.0     5.552711e-002    3.407000e-001
+10.0     2.889686e-003    3.210000e-002
+15.0     3.123772e-005    1.100000e-003
+20.0     0.000000e+000    0.000000e+000
+
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 138.888889 (Hz)
+f_d * t = 0.014286
+Maximum number of bits of simulation = 101800000
+Eb/No      BER              BLER
+0.0     2.970744e-001    9.122300e-001
+2.0     1.786220e-001    7.220400e-001
+4.0     8.661798e-002    4.624300e-001
+6.0     3.335135e-002    2.400500e-001
+8.0     1.001888e-002    9.747000e-002
+10.0     2.407426e-003    3.111000e-002
+12.0     4.950196e-004    7.710000e-003
+14.0     9.076621e-005    1.470000e-003
+16.0     1.044204e-005    3.100000e-004
+18.0     2.062868e-007    3.000000e-005
+20.0     0.000000e+000    0.000000e+000
+
+BLER Performance of coded-OFDM in ITU Vehicular A Channel
+Coding Scheme: (2,1,6) Convolutional Code
+Generator polynomials are {171,133} in Octal
+Minimum free distance = 10
+Decoder: SOVA Decoder
+Interleaver: S-random Interleaver
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.500000e+009 (Hz)
+Maximum Doppler Frequency = 138.888889 (Hz)
+f_d * t = 0.014286
+Maximum number of bits of simulation = 101800000
+Eb/No      BER              BLER
+1.0     2.364382e-001    8.319500e-001
+3.0     1.280365e-001    5.959700e-001
+5.0     5.536552e-002    3.438600e-001
+7.0     1.878012e-002    1.578900e-001
+9.0     5.016120e-003    5.622000e-002
+11.0     1.072829e-003    1.541000e-002
+13.0     2.189980e-004    3.580000e-003
+15.0     3.123772e-005    6.500000e-004
+17.0     1.984283e-006    1.300000e-004
+19.0     2.946955e-008    1.000000e-005
+
